@@ -1,0 +1,85 @@
+#name-system{
+	text-align: center;
+	margin-top: 5%;
+	color: #000000;
+	font-size: 30pt;
+}
+#name-system-seg{
+	font-size: 12pt;
+}
+#login-form{
+	margin-top: 2%;
+}
+#login-bg{
+	background-color: #da4f4a;
+}
+#btn-login{
+	width: 100%;
+	font-size: 12pt%;
+	height: 40px;
+}
+#recsenha{
+	cursor: pointer;
+}
+/*
+*/
+#logo-pag{
+	color: #da4f4a;
+}
+#btn-logout{
+	background-color: #da4f4a;
+}
+
+#link-pag{
+font-size: 12pt;
+	}
+#table-page{
+width: 98%;
+margin-left: 1%;
+}
+#table-tr{
+	background-color: #da4f4a;
+	color: #ffffff;
+}
+#table-td{
+	background-color: #ffffff;
+	color: #000000;
+}
+#footer{
+	background-color: #da4f4a;
+}
+#alert-name{
+	font-size: 12pt;
+}
+#icon-edit-view{
+margin-left: 10%;
+}
+#icon-view-view{
+margin-left: 10%;
+}
+#textarea-description{
+	height: 90px;
+}
+#btn-config{
+	text-align: center;
+}
+#temos{
+	text-align: justify;
+	color: #000000;
+}
+#img-use{
+	height: 80px;
+}
+#altfot{
+	color: #DCDCDC;
+}
+#img-use-alt{
+	width: 40%;
+}
+#input-edit-art{
+	width: 70%;
+}
+#input-edit-art-texteare{
+	width: 70%;
+	height: 90px;
+}
